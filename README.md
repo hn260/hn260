@@ -1,47 +1,53 @@
-👋 Hey there!
+## 👋 Hey there!
 
-I’m Herman, an electronics engineering student with a strong foundation in software fundamentals and backend systems.
+I’m **Herman**, an engineering student with a strong foundation in **software fundamentals and backend systems**.
 
 I focus on building reliable, well-structured code.
 
-🛠 What I do
+---
 
-Design and implement backend-oriented applications
+## 🛠 What I do
 
-Solve problems using data structures and algorithms
-
-Approach systems with a logic-first, fundamentals-driven mindset
+* Design and implement **backend-oriented applications**
+* Solve problems using **data structures and algorithms**
+* Approach systems with a **logic-first, fundamentals-driven mindset**
 
 I value clarity, performance, and correctness over shortcuts.
 
-⚙️ Tech Stack
+---
 
-Languages
+## ⚙️ Tech Stack
 
-Java — backend development, object-oriented design
+**Languages**
 
-Python — machine learning & data science
+* **Java** — backend development, object-oriented design
+* **Python** — machine learning & data analysis
+* **C** — data structures & algorithmic problem solving
 
-C — data structures & algorithmic problem solving
+**Backend & Systems**
 
-Backend & Systems
+* Spring / Spring Boot
+* RESTful APIs
+* SQL & relational databases
 
-Spring / Spring Boot
+**Data & ML**
 
-RESTful APIs
+* NumPy, Pandas, Scikit-learn
+* Data analysis & model building
 
-SQL & relational databases
+**Tools**
 
-Data Science & ML
+* IntelliJ IDEA
+* Git & GitHub
+* VS Code
+* Notion / Markdown
 
-Data analysis & model building
+---
 
-Tools
 
-IntelliJ IDEA
+## ⚡ A Bit About Me
 
-Git & GitHub
+* Prefer structured problem-solving over trial-and-error
+* I enjoy breaking problems down more than rushing to solutions
 
-VS Code
 
-Notion / Markdown
