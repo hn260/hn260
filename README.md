@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hey there!
 
-<!--
-**hn260/hn260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Herman, an electronics engineering student with a strong foundation in software fundamentals and backend systems.
 
-Here are some ideas to get you started:
+I focus on building reliable, well-structured code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 What I do
+
+Design and implement backend-oriented applications
+
+Solve problems using data structures and algorithms
+
+Approach systems with a logic-first, fundamentals-driven mindset
+
+I value clarity, performance, and correctness over shortcuts.
+
+⚙️ Tech Stack
+
+Languages
+
+Java — backend development, object-oriented design
+
+Python — machine learning & data science
+
+C — data structures & algorithmic problem solving
+
+Backend & Systems
+
+Spring / Spring Boot
+
+RESTful APIs
+
+SQL & relational databases
+
+Data Science & ML
+
+Data analysis & model building
+
+Tools
+
+IntelliJ IDEA
+
+Git & GitHub
+
+VS Code
+
+Notion / Markdown
