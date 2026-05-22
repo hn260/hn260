@@ -102,6 +102,6 @@ I care less about trendy stacks and more about understanding systems deeply — 
 
 # 📫 Connect With Me
 
-* GitHub: *[(add your link)](https://github.com/hn260)*
-* LinkedIn: *(https://www.linkedin.com/in/hptkr/)*
-* X / Twitter: *(https://x.com/spidyhq28)*
+* GitHub: *https://github.com/hn260*
+* LinkedIn: *https://www.linkedin.com/in/hptkr/*
+* X / Twitter: *https://x.com/spidyhq28*
