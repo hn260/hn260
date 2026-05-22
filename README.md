@@ -1,53 +1,107 @@
-## 👋 Hey there!
+# Hi, I'm Herman 👋
 
-I’m **Herman**, an engineering student with a strong foundation in **software fundamentals and backend systems**.
+Engineering student building at the intersection of embedded systems, AI/ML, robotics, and backend engineering.
 
-I focus on building reliable, well-structured code.
-
----
-
-## 🛠 What I do
-
-* Design and implement **backend-oriented applications**
-* Solve problems using **data structures and algorithms**
-* Approach systems with a **logic-first, fundamentals-driven mindset**
-
-I value clarity, performance, and correctness over shortcuts.
+I care less about trendy stacks and more about understanding systems deeply — from low-level hardware interfaces to scalable software architecture. Most of my work revolves around building reliable, efficient, and practical engineering projects.
 
 ---
 
-## ⚙️ Tech Stack
+# 🚀 What I Work On
 
-**Languages**
+### Embedded & Electronics
 
-* **Java** — backend development, object-oriented design
-* **Python** — machine learning & data analysis
-* **C** — data structures & algorithmic problem solving
+* Microcontroller-based system design
+* Sensor integration & hardware interfacing
+* PCB design workflows
+* Robotics and autonomous systems
+* Communication interfaces (UART, I2C, SPI, CAN)
 
-**Backend & Systems**
+### AI / ML
 
-* Spring / Spring Boot
-* RESTful APIs
-* SQL & relational databases
+* Machine learning fundamentals
+* Computer vision experimentation
+* Data preprocessing & model pipelines
+* Applied AI for robotics and embedded applications
+* Exploring GenAI workflows and automation systems
 
-**Data & ML**
+### Backend & Systems
 
-* NumPy, Pandas, Scikit-learn
-* Data analysis & model building
+* Backend application development
+* REST API design
+* Concurrent and performant services
+* System-oriented programming
+* Learning scalable infrastructure concepts
 
-**Tools**
+---
 
-* IntelliJ IDEA
+# ⚙️ Tech Stack
+
+## Languages
+
+* **Python** — AI/ML, automation, data workflows
+* **C / C++** — embedded systems, low-level programming & performance-oriented development
+* **Java** — object-oriented programming & backend fundamentals
+* **Go (Golang)** — backend systems & scalable services
+
+## Embedded / Robotics
+
+* Embedded C
+* Raspberry Pi
+* Arduino ecosystem
+* ROS 2 & Gazebo
+* Sensor integration
+* Serial communication protocols
+
+## AI / ML
+
+* NumPy
+* Pandas
+* Scikit-learn
+* OpenCV
+* Model experimentation & data analysis
+
+## Backend
+
+* Go backend development
+* REST APIs
+* SQL databases
+* Spring Boot fundamentals
+* Git-based workflows
+
+## Tools
+
 * Git & GitHub
+* Linux
 * VS Code
-* Notion / Markdown
+* IntelliJ IDEA
+* KiCad
+* Notion
 
 ---
 
+# 🧠 Engineering Mindset
 
-## ⚡ A Bit About Me
+* I prefer understanding systems over copying implementations.
+* I focus on fundamentals before frameworks.
+* I like building things that combine software with hardware.
+* I enjoy solving infrastructure and integration problems.
+* I value clean architecture, reliability, and long-term maintainability.
 
-* Prefer structured problem-solving over trial-and-error
-* I enjoy breaking problems down more than rushing to solutions
+---
 
+# 📌 Current Areas of Exploration
 
+* Embedded AI systems
+* Robotics simulation with ROS 2 & Gazebo
+* Autonomous rover architectures
+* Backend systems in Go
+* AI-assisted engineering workflows
+* PCB design and hardware prototyping
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: *[(add your link)](https://github.com/hn260)*
+* LinkedIn: *(https://www.linkedin.com/in/hptkr/)*
+* X / Twitter: *(https://x.com/spidyhq28)*
